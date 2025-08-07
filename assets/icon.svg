@@ -1,0 +1,40 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 显示器屏幕 -->
+  <rect x="32" y="48" width="192" height="120" rx="8" ry="8" stroke="#2563eb" stroke-width="4" fill="none"/>
+  
+  <!-- 屏幕内容线条 -->
+  <line x1="48" y1="72" x2="112" y2="72" stroke="#2563eb" stroke-width="2"/>
+  <line x1="48" y1="88" x2="144" y2="88" stroke="#2563eb" stroke-width="2"/>
+  <line x1="48" y1="104" x2="96" y2="104" stroke="#2563eb" stroke-width="2"/>
+  <line x1="48" y1="120" x2="128" y2="120" stroke="#2563eb" stroke-width="2"/>
+  <line x1="48" y1="136" x2="80" y2="136" stroke="#2563eb" stroke-width="2"/>
+  
+  <!-- 显示器支架 -->
+  <line x1="128" y1="168" x2="128" y2="192" stroke="#2563eb" stroke-width="4"/>
+  
+  <!-- 显示器底座 -->
+  <line x1="96" y1="192" x2="160" y2="192" stroke="#2563eb" stroke-width="4"/>
+  
+  <!-- 键盘 -->
+  <rect x="48" y="208" width="160" height="32" rx="4" ry="4" stroke="#2563eb" stroke-width="3" fill="none"/>
+  
+  <!-- 键盘按键 -->
+  <rect x="56" y="216" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="72" y="216" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="88" y="216" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="104" y="216" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="120" y="216" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="136" y="216" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="152" y="216" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="168" y="216" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="184" y="216" width="8" height="6" rx="1" fill="#2563eb"/>
+  
+  <rect x="64" y="226" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="80" y="226" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="96" y="226" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="112" y="226" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="128" y="226" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="144" y="226" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="160" y="226" width="8" height="6" rx="1" fill="#2563eb"/>
+  <rect x="176" y="226" width="8" height="6" rx="1" fill="#2563eb"/>
+</svg>

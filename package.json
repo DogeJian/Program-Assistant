@@ -1,0 +1,34 @@
+{
+  "name": "program-assistant",
+  "version": "1.0.0",
+  "description": "程序项目助手桌面应用程序",
+  "main": "dist-electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "electron:dev": "vite build && electron dist-electron/main.js",
+    "electron:pack": "vite build && electron-builder",
+    "electron:build": "vite build && electron-builder --win",
+    "electron:build-portable": "vite build && electron-builder --win portable",
+    "electron:build-installer": "vite build && electron-builder --win nsis",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "vue3",
+    "desktop"
+  ],
+  "author": "DogeJian",
+  "license": "ISC",
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.2",
+    "element-plus": "^2.10.5",
+    "vue": "^3.5.18"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "electron": "^37.2.6",
+    "electron-builder": "^26.0.12",
+    "vite": "^7.0.6"
+  }
+}
